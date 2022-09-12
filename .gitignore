@@ -1,0 +1,17 @@
+# backend
+/server
+
+# dependencies
+/client/node_modules
+/client/package-lock.json
+/client/package.json
+/client/tailwind.config.js
+/client/postcss.config.js
+
+# production
+/client/build
+/client/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
